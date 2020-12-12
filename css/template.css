@@ -10523,3 +10523,19 @@ section#contact form#contactForm :-ms-input-placeholder {
   padding-right: 3rem;
   font-weight: 500;
 }
+
+.profile-card-title {
+  color: #333;
+  font-size: 1.2rem;
+  line-height: 1.4;
+}
+
+.profile-card-uni {
+  color: #666 !important;
+  font-size: 13px;
+  font-weight: normal;
+  line-height: 1.5;
+  max-width:170px;
+  overflow-wrap: break-word;
+  margin-right: 3px;
+}
