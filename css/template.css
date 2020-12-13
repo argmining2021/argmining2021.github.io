@@ -10088,7 +10088,7 @@ img::-moz-selection {
   color: #e4af01;
 
   font-weight: 700;
-  letter-spacing: 0.022em;
+  letter-spacing: 0.010em;
   text-transform: uppercase;
 }
 #mainNav .navbar-brand img {
@@ -10098,7 +10098,7 @@ img::-moz-selection {
 
   
   color: #fff;
-  letter-spacing: 0.022em;
+  letter-spacing: 0.010em;
 }
 #mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
   color: #e4af01;
