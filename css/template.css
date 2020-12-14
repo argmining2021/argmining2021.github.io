@@ -10514,14 +10514,8 @@ section#contact form#contactForm :-ms-input-placeholder {
 }
 
 .social-media-div {
-  position: fixed;
-  top:0;
-  right:0;
-  font-size: 1.1rem;
-  float: right !important;
-  padding-top: 10rem;
-  padding-right: 3rem;
-  font-weight: 500;
+  font-size: 2rem;
+  padding-bottom: 15px;
 }
 
 .profile-card-title {
