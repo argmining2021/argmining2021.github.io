@@ -10556,3 +10556,51 @@ section#contact form#contactForm :-ms-input-placeholder {
   background-color:  #212529 !important;
   font-size: 0.70rem;
 }
+
+
+.program-table{
+  font-size: 1rem;
+}
+.program-table   td:nth-of-type(1) {
+  width: 110px !important;
+
+}
+
+
+
+.program-session {
+  background-color: #fff9e6;
+  font-weight: bold;
+}
+.program-presentation-title td {
+  padding: 15px 0px 0px 0px ;
+}
+
+.program-section-title  td {
+  padding: 7.5px 0px 7.5px 0px ;
+}
+
+.program-day {
+  background-color: #fedb67;
+  font-weight: bold;
+  text-align: center;
+  
+
+} 
+.program-section-title td:nth-of-type(1) {
+  font-weight: bold
+
+}
+.program-section-title td:nth-of-type(2) {
+  font-weight: bold;
+  font-style: italic;
+}
+
+.program-presentation-title td:nth-of-type(2){
+  font-style: italic;
+  padding-right: 10px;
+}
+.program-speaker td{
+  padding: 0px 5px 0px 0px;
+
+}
